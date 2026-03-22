@@ -19,7 +19,7 @@ Professional with 4+ years of experience architecting and delivering high-perfor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shem-mwangi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?logo=github)](https://github.com/ShemBrooklyne)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox)](https://shembrooklyne.github.io/ShemBrooklyne/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox)](https://shem-brooklyne.github.io/Shem-Brooklyne/)
 
 **Email:** [shembrooklyne@gmail.com](mailto:shembrooklyne@gmail.com)
 
